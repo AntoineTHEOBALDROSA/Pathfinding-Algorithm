@@ -1,5 +1,7 @@
 # Pathfinding-Algorithm
 
+Make sure to have pygame module installed
+
 Controls :
 - Space : start pathfinding
 
